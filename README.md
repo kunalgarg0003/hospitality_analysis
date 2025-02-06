@@ -1,4 +1,3 @@
-# hospitality_analysis
 # AtliQ Hotels Data Analysis Project
 
 ## 📌 Overview
@@ -50,9 +49,5 @@ The project analyzes data from five CSV files:
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to improve the project, feel free to submit a pull request.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 ⭐ If you found this project helpful, consider giving it a star on GitHub! ⭐
 
